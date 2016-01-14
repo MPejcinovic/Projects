@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\DiplomskiProjekt\DiplomskiProjekt\bin\Debug\DiplomskiProjekt.exe.config
+c:\users\user\documents\visual studio 2013\Projects\DiplomskiProjekt\DiplomskiProjekt\bin\Debug\DiplomskiProjekt.exe
+c:\users\user\documents\visual studio 2013\Projects\DiplomskiProjekt\DiplomskiProjekt\bin\Debug\DiplomskiProjekt.pdb
+c:\users\user\documents\visual studio 2013\Projects\DiplomskiProjekt\DiplomskiProjekt\obj\Debug\DiplomskiProjekt.exe
+c:\users\user\documents\visual studio 2013\Projects\DiplomskiProjekt\DiplomskiProjekt\obj\Debug\DiplomskiProjekt.pdb
+C:\Users\User\documents\visual studio 2013\Projects\DiplomskiProjekt\DiplomskiProjekt\bin\Debug\BouncyCastle.CryptoExt.dll
+C:\Users\User\documents\visual studio 2013\Projects\DiplomskiProjekt\DiplomskiProjekt\obj\Debug\DiplomskiProjekt.Certificate.resources
+C:\Users\User\documents\visual studio 2013\Projects\DiplomskiProjekt\DiplomskiProjekt\obj\Debug\DiplomskiProjekt.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\DiplomskiProjekt\DiplomskiProjekt\obj\Debug\DiplomskiProjekt.csprojResolveAssemblyReference.cache
