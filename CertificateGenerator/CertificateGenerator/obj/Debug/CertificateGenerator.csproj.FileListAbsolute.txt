@@ -1,8 +1,0 @@
-c:\users\mpejcinovic\documents\visual studio 2015\Projects\CertificateGenerator\CertificateGenerator\bin\Debug\CertificateGenerator.exe.config
-c:\users\mpejcinovic\documents\visual studio 2015\Projects\CertificateGenerator\CertificateGenerator\bin\Debug\CertificateGenerator.exe
-c:\users\mpejcinovic\documents\visual studio 2015\Projects\CertificateGenerator\CertificateGenerator\bin\Debug\CertificateGenerator.pdb
-c:\users\mpejcinovic\documents\visual studio 2015\Projects\CertificateGenerator\CertificateGenerator\bin\Debug\BouncyCastle.Crypto.dll
-c:\users\mpejcinovic\documents\visual studio 2015\Projects\CertificateGenerator\CertificateGenerator\bin\Debug\BouncyCastle.Crypto.pdb
-c:\users\mpejcinovic\documents\visual studio 2015\Projects\CertificateGenerator\CertificateGenerator\obj\Debug\CertificateGenerator.csprojResolveAssemblyReference.cache
-c:\users\mpejcinovic\documents\visual studio 2015\Projects\CertificateGenerator\CertificateGenerator\obj\Debug\CertificateGenerator.exe
-c:\users\mpejcinovic\documents\visual studio 2015\Projects\CertificateGenerator\CertificateGenerator\obj\Debug\CertificateGenerator.pdb
