@@ -1,0 +1,9 @@
+c:\users\matea\documents\visual studio 2013\Projects\aplikacija\aplikacija\bin\Debug\aplikacija.exe.config
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\aplikacija\aplikacija\obj\Debug\aplikacija.csprojResolveAssemblyReference.cache
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\aplikacija\aplikacija\obj\Debug\aplikacija.Properties.Resources.resources
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\aplikacija\aplikacija\obj\Debug\aplikacija.csproj.GenerateResource.Cache
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\aplikacija\aplikacija\bin\Debug\aplikacija.exe
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\aplikacija\aplikacija\bin\Debug\aplikacija.pdb
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\aplikacija\aplikacija\obj\Debug\aplikacija.exe
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\aplikacija\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\aplikacija\aplikacija\obj\Debug\aplikacija.Form1.resources
